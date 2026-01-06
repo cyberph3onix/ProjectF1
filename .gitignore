@@ -1,0 +1,18 @@
+# FastF1 cache
+f1-cache/
+f1_cache/
+cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
